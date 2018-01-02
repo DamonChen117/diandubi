@@ -1,4 +1,4 @@
 {"versions":[ 
-   { "id":"xxxx", "Version":1},
-   { "id":"xxxx", "Version":2}
+   { "id":"xxxx", "version":1},
+   { "id":"xxxx", "version":2}
 ]}
