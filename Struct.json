@@ -23,7 +23,7 @@
           "newVersion" : 1
         },
         {
-          "id" : "I_Went_Walking",
+          "id" : "I Went Walking",
           "newVersion" : 1
         },
         {
@@ -50,7 +50,7 @@
       "name" : "Images",
       "id" : "Images",
       "hasImages" : true,
-      "url" : "https:\/\/damonchen117.github.io\/diandubi\/"
+      "url" : "https:\/\/damonchen117.github.io\/diandubi\/Struct.json"
     }
   ]
 }
