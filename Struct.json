@@ -4,53 +4,53 @@
       "items" : [
         {
           "id" : "Brown Bear, Brown Bear, What Do You See",
-          "newVersion" : "1"
+          "newVersion" : 1
         },
         {
           "id" : "Five Little Monkeys Jumping On the Bed",
-          "newVersion" : "1"
+          "newVersion" : 1
         },
         {
           "id" : "From Head to Toe",
-          "newVersion" : "1"
+          "newVersion" : 1
         },
         {
           "id" : "Go Away Big Green Monster",
-          "newVersion" : "1"
+          "newVersion" : 1
         },
         {
           "id" : "I am a Bunny",
-          "newVersion" : "1"
+          "newVersion" : 1
         },
         {
           "id" : "I_Went_Walking",
-          "newVersion" : "1"
+          "newVersion" : 1
         },
         {
           "id" : "Polar Bear, Polar Bear, What Do You Hear?",
-          "newVersion" : "1"
+          "newVersion" : 1
         },
         {
           "id" : "The DoorBell Rang",
-          "newVersion" : "1"
+          "newVersion" : 1
         },
         {
           "id" : "The Very Hungry Caterpillar",
-          "newVersion" : "1"
+          "newVersion" : 1
         },
         {
           "id" : "The Wheels on the Bus",
-          "newVersion" : "1"
+          "newVersion" : 1
         },
         {
           "id" : "We're Going on a Bear Hunt",
-          "newVersion" : "1"
+          "newVersion" : 1
         }
       ],
       "name" : "Images",
       "id" : "Images",
       "hasImages" : false,
-      "url" : "http:\/\/xxxx"
+      "url" : "https:\/\/damonchen117.github.io\/diandubi\/Struct.json"
     }
   ]
 }
