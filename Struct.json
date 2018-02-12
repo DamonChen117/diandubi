@@ -3,6 +3,63 @@
     {
       "items" : [
         {
+          "id" : "I Am Fire",
+          "name" : "I Am Fire",
+          "newVersion" : 1
+        },
+        {
+          "id" : "I Am Planet Earth",
+          "name" : "I Am Planet Earth",
+          "newVersion" : 1
+        },
+        {
+          "id" : "I Am Snow",
+          "name" : "I Am Snow",
+          "newVersion" : 1
+        },
+        {
+          "id" : "I Am Water",
+          "name" : "I Am Water",
+          "newVersion" : 1
+        },
+        {
+          "id" : "I Am a Caterpillar",
+          "name" : "I Am a Caterpillar",
+          "newVersion" : 1
+        },
+        {
+          "id" : "I Am a Leaf",
+          "name" : "I Am a Leaf",
+          "newVersion" : 1
+        },
+        {
+          "id" : "I Am a Rock",
+          "name" : "I Am a Rock",
+          "newVersion" : 1
+        },
+        {
+          "id" : "I Am a Seed",
+          "name" : "I Am a Seed",
+          "newVersion" : 1
+        },
+        {
+          "id" : "I Am a Star",
+          "name" : "I Am a Star",
+          "newVersion" : 1
+        },
+        {
+          "id" : "I Am an Apple",
+          "name" : "I Am an Apple",
+          "newVersion" : 1
+        }
+      ],
+      "name" : "I Am Library",
+      "id" : "I Am Library",
+      "hasImages" : true
+    },
+    {
+      "items" : [
+        {
           "id" : "Brown Bear, Brown Bear, What Do You See",
           "name" : "Brown Bear, Brown Bear, What Do You See",
           "newVersion" : 1
@@ -20,6 +77,21 @@
         {
           "id" : "Go Away Big Green Monster",
           "name" : "Go Away Big Green Monster",
+          "newVersion" : 1
+        },
+        {
+          "id" : "Good Night, Gorilla",
+          "name" : "Good Night, Gorilla",
+          "newVersion" : 1
+        },
+        {
+          "id" : "Goodnight Moon",
+          "name" : "Goodnight Moon",
+          "newVersion" : 1
+        },
+        {
+          "id" : "Harold and the Purple Crayon",
+          "name" : "Harold and the Purple Crayon",
           "newVersion" : 1
         },
         {
@@ -55,6 +127,11 @@
         {
           "id" : "We're Going on a Bear Hunt",
           "name" : "We're Going on a Bear Hunt",
+          "newVersion" : 1
+        },
+        {
+          "id" : "Where Is the Green Sheep",
+          "name" : "Where Is the Green Sheep",
           "newVersion" : 1
         }
       ],
