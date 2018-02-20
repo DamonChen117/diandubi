@@ -1,1487 +1,1764 @@
 {
   "groups" : [
     {
-      "items" : [
-        {
-          "id" : "Brown Bear, Brown Bear, What Do You See?",
-          "name" : "Brown Bear, Brown Bear, What Do You See?",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Five Little Ducks",
-          "name" : "Five Little Ducks",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Rosie's Walk",
-          "name" : "Rosie's Walk",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Wheels on the Bus",
-          "name" : "The Wheels on the Bus",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Color Zoo",
-          "name" : "Color Zoo",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Five Little Monkeys Jumping on the Bed",
-          "name" : "Five Little Monkeys Jumping on the Bed",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Does A Kangaroo Have A Mother,Too?",
-          "name" : "Does A Kangaroo Have A Mother,Too?",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Foot Book",
-          "name" : "The Foot Book",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Sheep in a Jeep",
-          "name" : "Sheep in a Jeep",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Ten Fat Sausages",
-          "name" : "Ten Fat Sausages",
-          "newVersion" : 2
-        },
-        {
-          "id" : "I am the Music Man",
-          "name" : "I am the Music Man",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Go Away Mr Wolf!",
-          "name" : "Go Away Mr Wolf!",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Today Is Monday",
-          "name" : "Today Is Monday",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Go Away Big Green Monster!",
-          "name" : "Go Away Big Green Monster!",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Five Little Men in a Flying Saucer",
-          "name" : "Five Little Men in a Flying Saucer",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Down by the Station",
-          "name" : "Down by the Station",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Walking Through the Jungle",
-          "name" : "Walking Through the Jungle",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Hop on Pop",
-          "name" : "Hop on Pop",
-          "newVersion" : 2
-        }
-      ],
-      "name" : "经典绘本第一季",
       "id" : "d4bfd3cc1d3161e0139112dfacc8122f",
-      "hasImages" : true
+      "name" : "经典绘本第一季",
+      "bookIds" : [
+        "28fbdff2edef20691a2d0b96b8b604f5",
+        "f3d0841024b6783bfb4e29aedaa2a210",
+        "1ff0e15771a51fa9d442b4211a7a9aac",
+        "efb239c20d33da01fcfd5d8cf20913f6",
+        "5e724f5d63be4d65b4fd58e384fefea2",
+        "bf76ad343778829ae8e5188977f69d4f",
+        "d081095e92fd842bb9ab457a8fee577b",
+        "fd05ee46341c8f58631c287eabad28f5",
+        "befdeac07bd8939b99a95611787ddeb7",
+        "b69926c700703e7c21ff8f3175bdc3e7",
+        "d1723c8ed51f3378534f7a9b05b8059f",
+        "cba25195f3a75d8ad66679063e9f394d",
+        "70b6dd42d5af3240873464ec29165b24",
+        "e74fd0feffdaaf656c90da2a11ba9769",
+        "74a1e0fd5d015c15ef357948a7672d59",
+        "1d01c549b33791ae5f0f43eae5ccfd56",
+        "4a9920578915e9018735b6d73c94ded3",
+        "4edc622bfe88607cbf292b7077b658ab"
+      ]
     },
     {
-      "items" : [
-        {
-          "id" : "Ape in a Cape: an Alphabet of Odd Animals",
-          "name" : "Ape in a Cape: an Alphabet of Odd Animals",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Sheep in a Shop",
-          "name" : "Sheep in a Shop",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Polar Bear, Polar Bear, What Do You Hear?",
-          "name" : "Polar Bear, Polar Bear, What Do You Hear?",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Goodnight Moon",
-          "name" : "Goodnight Moon",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Green Eggs and Ham",
-          "name" : "Green Eggs and Ham",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Dry Bones",
-          "name" : "Dry Bones",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Napping House",
-          "name" : "The Napping House",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Five Little Monkeys Sitting in a Tree",
-          "name" : "Five Little Monkeys Sitting in a Tree",
-          "newVersion" : 2
-        },
-        {
-          "id" : "We're Going on a Bear Hunt",
-          "name" : "We're Going on a Bear Hunt",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Here We Go Round the Mulberry Bush",
-          "name" : "Here We Go Round the Mulberry Bush",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Creepy Crawly Calypso",
-          "name" : "Creepy Crawly Calypso",
-          "newVersion" : 2
-        },
-        {
-          "id" : "King Bidgood's in the Bathtub",
-          "name" : "King Bidgood's in the Bathtub",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Hattie and the Fox",
-          "name" : "Hattie and the Fox",
-          "newVersion" : 2
-        },
-        {
-          "id" : "We All Go Traveling By",
-          "name" : "We All Go Traveling By",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Journey Home From Grandpa's",
-          "name" : "The Journey Home From Grandpa's",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Henny Penny",
-          "name" : "Henny Penny",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Animal Boogie",
-          "name" : "The Animal Boogie",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Very Hungry Caterpillar",
-          "name" : "The Very Hungry Caterpillar",
-          "newVersion" : 2
-        }
-      ],
-      "name" : "经典绘本第二季",
       "id" : "bbc9b04364e3a5a800c53e0904f1237f",
-      "hasImages" : true
+      "name" : "经典绘本第二季",
+      "bookIds" : [
+        "df27ddd7e34642f17223528fa3c00535",
+        "a78bb1328df79ff2102b9f8f287189fd",
+        "55011d2cc9e06cf2a07f730f347ec64a",
+        "7ab4e5203648c6d3570f3b4f39b87844",
+        "6ec531c4da614e4986dbf78efb7b339a",
+        "853c6fbc6afb7304e9e289929f63eb60",
+        "d9ec71a3cbd8c02a078a053a82ee88cc",
+        "919c6749e33039fcf726e9eb0878d6ef",
+        "b1418081a7d4fb80189dfac5d3df9c35",
+        "296712f06b2909289bb8e2d912834486",
+        "602fd2d4eee8d8d135d39b6df34a3026",
+        "e0edb377ecfb0045e5a987fee801aa2d",
+        "0742fe47e0d564ed9d9c923764e1e4d0",
+        "fdaca019c6e4e2e7afb5570b82b20121",
+        "6b8e7b74a282aae352fcae4b2cde68d4",
+        "3ca0bb17e844dc39d4a259f7e5408962",
+        "3776605397dff53f0ca0f4c4d76a2de2",
+        "9f9bec9a89c6967a34b62cc1c80f4f2a"
+      ]
     },
     {
-      "items" : [
-        {
-          "id" : "My Very First Mother Goose",
-          "name" : "My Very First Mother Goose",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Brown Bear, Brown Bear, What Do You See?",
-          "name" : "Brown Bear, Brown Bear, What Do You See?",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Wheels on the Bus",
-          "name" : "The Wheels on the Bus",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Go Away Mr Wolf!",
-          "name" : "Go Away Mr Wolf!",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Five Little Monkeys Jumping on the Bed",
-          "name" : "Five Little Monkeys Jumping on the Bed",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Hop on Pop",
-          "name" : "Hop on Pop",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Down by the Station",
-          "name" : "Down by the Station",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Henny Penny",
-          "name" : "Henny Penny",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Green Eggs and Ham",
-          "name" : "Green Eggs and Ham",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Five Little Men in a Flying Saucer",
-          "name" : "Five Little Men in a Flying Saucer",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Ape in a Cape: an Alphabet of Odd Animals",
-          "name" : "Ape in a Cape: an Alphabet of Odd Animals",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Very Hungry Caterpillar",
-          "name" : "The Very Hungry Caterpillar",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Ten Fat Sausages",
-          "name" : "Ten Fat Sausages",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Today Is Monday",
-          "name" : "Today Is Monday",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Hattie and the Fox",
-          "name" : "Hattie and the Fox",
-          "newVersion" : 2
-        },
-        {
-          "id" : "I am the Music Man",
-          "name" : "I am the Music Man",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Does A Kangaroo Have A Mother,Too?",
-          "name" : "Does A Kangaroo Have A Mother,Too?",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Fox in Socks",
-          "name" : "Fox in Socks",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Five Little Ducks",
-          "name" : "Five Little Ducks",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Dr. Seuss's ABC",
-          "name" : "Dr. Seuss's ABC",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Go Away Big Green Monster!",
-          "name" : "Go Away Big Green Monster!",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Dry Bones",
-          "name" : "Dry Bones",
-          "newVersion" : 2
-        }
-      ],
-      "name" : "廖彩杏书单第一阶段",
       "id" : "a75d6b6ca5280813398d0de2103ae82a",
-      "hasImages" : true
+      "name" : "廖彩杏书单第一阶段",
+      "bookIds" : [
+        "fcb0d111c3ed7b33b2ece7f3c2b82840",
+        "28fbdff2edef20691a2d0b96b8b604f5",
+        "efb239c20d33da01fcfd5d8cf20913f6",
+        "cba25195f3a75d8ad66679063e9f394d",
+        "bf76ad343778829ae8e5188977f69d4f",
+        "4edc622bfe88607cbf292b7077b658ab",
+        "1d01c549b33791ae5f0f43eae5ccfd56",
+        "3ca0bb17e844dc39d4a259f7e5408962",
+        "6ec531c4da614e4986dbf78efb7b339a",
+        "74a1e0fd5d015c15ef357948a7672d59",
+        "df27ddd7e34642f17223528fa3c00535",
+        "9f9bec9a89c6967a34b62cc1c80f4f2a",
+        "b69926c700703e7c21ff8f3175bdc3e7",
+        "70b6dd42d5af3240873464ec29165b24",
+        "0742fe47e0d564ed9d9c923764e1e4d0",
+        "d1723c8ed51f3378534f7a9b05b8059f",
+        "d081095e92fd842bb9ab457a8fee577b",
+        "9500fc0a1b24c5c8bbff3ec4a713c143",
+        "f3d0841024b6783bfb4e29aedaa2a210",
+        "16a49b17a7b5c31dfe77e7c4d2bfa02d",
+        "e74fd0feffdaaf656c90da2a11ba9769",
+        "853c6fbc6afb7304e9e289929f63eb60"
+      ]
     },
     {
-      "items" : [
-        {
-          "id" : "The Mixed-Up Chameleon",
-          "name" : "The Mixed-Up Chameleon",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Sheep in a Jeep",
-          "name" : "Sheep in a Jeep",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Five Little Monkeys Sitting in a Tree",
-          "name" : "Five Little Monkeys Sitting in a Tree",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Goodnight Moon",
-          "name" : "Goodnight Moon",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Sheep in a Shop",
-          "name" : "Sheep in a Shop",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Down in the Jungle",
-          "name" : "Down in the Jungle",
-          "newVersion" : 2
-        },
-        {
-          "id" : "King Bidgood's in the Bathtub",
-          "name" : "King Bidgood's in the Bathtub",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Rosie's Walk",
-          "name" : "Rosie's Walk",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Here We Go Round the Mulberry Bush",
-          "name" : "Here We Go Round the Mulberry Bush",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Napping House",
-          "name" : "The Napping House",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Color Zoo",
-          "name" : "Color Zoo",
-          "newVersion" : 2
-        },
-        {
-          "id" : "We All Go Traveling By",
-          "name" : "We All Go Traveling By",
-          "newVersion" : 2
-        },
-        {
-          "id" : "We're Going on a Bear Hunt",
-          "name" : "We're Going on a Bear Hunt",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Polar Bear, Polar Bear, What Do You Hear?",
-          "name" : "Polar Bear, Polar Bear, What Do You Hear?",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Creepy Crawly Calypso",
-          "name" : "Creepy Crawly Calypso",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Guess How Much I Love You",
-          "name" : "Guess How Much I Love You",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Very Quiet Cricket",
-          "name" : "The Very Quiet Cricket",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Walking Through the Jungle",
-          "name" : "Walking Through the Jungle",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Foot Book",
-          "name" : "The Foot Book",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Is Your Mama a Llama",
-          "name" : "Is Your Mama a Llama",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Animal Boogie",
-          "name" : "The Animal Boogie",
-          "newVersion" : 2
-        },
-        {
-          "id" : "One Fish Two Fish Red Fish Blue Fish",
-          "name" : "One Fish Two Fish Red Fish Blue Fish",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Kipper's A to Z",
-          "name" : "Kipper's A to Z",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Journey Home From Grandpa's",
-          "name" : "The Journey Home From Grandpa's",
-          "newVersion" : 2
-        }
-      ],
-      "name" : "廖彩杏书单第二阶段",
       "id" : "f27f1e767694f9a167c6b879f3f377e0",
-      "hasImages" : true
+      "name" : "廖彩杏书单第二阶段",
+      "bookIds" : [
+        "d520ac7ce8b0915e5078c3ad237956a5",
+        "befdeac07bd8939b99a95611787ddeb7",
+        "919c6749e33039fcf726e9eb0878d6ef",
+        "7ab4e5203648c6d3570f3b4f39b87844",
+        "a78bb1328df79ff2102b9f8f287189fd",
+        "a1283075695ebd5513d245ad47d3af6e",
+        "e0edb377ecfb0045e5a987fee801aa2d",
+        "1ff0e15771a51fa9d442b4211a7a9aac",
+        "296712f06b2909289bb8e2d912834486",
+        "d9ec71a3cbd8c02a078a053a82ee88cc",
+        "5e724f5d63be4d65b4fd58e384fefea2",
+        "fdaca019c6e4e2e7afb5570b82b20121",
+        "b1418081a7d4fb80189dfac5d3df9c35",
+        "55011d2cc9e06cf2a07f730f347ec64a",
+        "602fd2d4eee8d8d135d39b6df34a3026",
+        "585a360f88337be699b9d3c1ed388824",
+        "3368f9fc8cf1bb76373c0ba98b994cc2",
+        "4a9920578915e9018735b6d73c94ded3",
+        "fd05ee46341c8f58631c287eabad28f5",
+        "5aa31788583da3d4e98eb502ed11eac8",
+        "3776605397dff53f0ca0f4c4d76a2de2",
+        "f131a774ed0fa424fbacbd463cc0104a",
+        "f9d18cbf82bd8bc50e9ae1f3cf60d079",
+        "6b8e7b74a282aae352fcae4b2cde68d4"
+      ]
     },
     {
-      "items" : [
-        {
-          "id" : "Chicken Soup With Rice",
-          "name" : "Chicken Soup With Rice",
-          "newVersion" : 2
-        },
-        {
-          "id" : "On Market Street",
-          "name" : "On Market Street",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Silly Sally",
-          "name" : "Silly Sally",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Each Peach Pear Plum",
-          "name" : "Each Peach Pear Plum",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Papa, please get the moon for me",
-          "name" : "Papa, please get the moon for me",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Quick as a Cricket",
-          "name" : "Quick as a Cricket",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Eating the Alphabet",
-          "name" : "Eating the Alphabet",
-          "newVersion" : 2
-        },
-        {
-          "id" : "See you later,Alligator",
-          "name" : "See you later,Alligator",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Princess and The Dragon",
-          "name" : "The Princess and The Dragon",
-          "newVersion" : 2
-        },
-        {
-          "id" : "I Am an Apple",
-          "name" : "I Am an Apple",
-          "newVersion" : 2
-        },
-        {
-          "id" : "I'm a Caterpillar",
-          "name" : "I'm a Caterpillar",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Little Mouse,The Red Ripe Strawberry,and The Big Hungry Bear",
-          "name" : "The Little Mouse,The Red Ripe Strawberry,and The Big Hungry Bear",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Alligators All Around An Alphabet",
-          "name" : "Alligators All Around An Alphabet",
-          "newVersion" : 2
-        },
-        {
-          "id" : "I'm a Seed",
-          "name" : "I'm a Seed",
-          "newVersion" : 2
-        },
-        {
-          "id" : "A Dragon on the Doorstep",
-          "name" : "A Dragon on the Doorstep",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Maisy Goes Camping",
-          "name" : "Maisy Goes Camping",
-          "newVersion" : 2
-        },
-        {
-          "id" : "I Am a Star",
-          "name" : "I Am a Star",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Itsy Bitsy Spider",
-          "name" : "The Itsy Bitsy Spider",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Maisy's Christmas Eve",
-          "name" : "Maisy's Christmas Eve",
-          "newVersion" : 2
-        },
-        {
-          "id" : "I Am Snow",
-          "name" : "I Am Snow",
-          "newVersion" : 2
-        },
-        {
-          "id" : "I Am Water",
-          "name" : "I Am Water",
-          "newVersion" : 2
-        },
-        {
-          "id" : "I Am Fire",
-          "name" : "I Am Fire",
-          "newVersion" : 2
-        },
-        {
-          "id" : "I Am a Leaf",
-          "name" : "I Am a Leaf",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Over in the Meadow",
-          "name" : "Over in the Meadow",
-          "newVersion" : 2
-        }
-      ],
-      "name" : "廖彩杏书单第三阶段",
       "id" : "d37cc8ef3f8e5e539c90c0ba77dd41a5",
-      "hasImages" : true
+      "name" : "廖彩杏书单第三阶段",
+      "bookIds" : [
+        "4dfd3ba2f835bc9464bef3785585a24f",
+        "a7c22fb7c11fc17afdfe319713880712",
+        "4ff27ab19da92309f4b98fc78611025d",
+        "24f47b279b1f5a117d67c491c6a9b5ff",
+        "cecbf99d10115421ae5f32cda033a3ce",
+        "9bcf306b05a0a56ab9376b8967627e63",
+        "121bd254e15de2fbcf8fdca096ebe5af",
+        "0069c1fe0faeffae4b0df6afef12f097",
+        "1d8be04a2098fe0d8c2eec6cd2cb02cc",
+        "7ae241553d7811d6a7cebdb6a5e5052f",
+        "22a943ec96846484f17901cba415d444",
+        "5a7ed539f6df696251d2323fa00bd339",
+        "ce90b3e69a1613544ffbc84c4663ed7f",
+        "943fd675bf78917dd2c3f3430468835d",
+        "80ee9e0cb72637a9a6051d48be430b4d",
+        "7bb907f83720f4b8e2a51ed7832e568f",
+        "995bf341584ae8660fe3c03a221127b4",
+        "a6140782f374da9765b1335e5787b268",
+        "925cd4f3a96f167cbcd3e16131be70b1",
+        "9e3459826fe64dbd7b22c02828c6c56d",
+        "5a0b810204618393fb87cc037409f82f",
+        "368cb993b40d0e73f9410d3becb0b7c9",
+        "bb90e33019d7bb039fcd3a5da48b5381",
+        "9e8751c58e4be90ac4402f15bdbf590a"
+      ]
     },
     {
-      "items" : [
-        {
-          "id" : "Do You Want to Be My Friend",
-          "name" : "Do You Want to Be My Friend",
-          "newVersion" : 2
-        },
-        {
-          "id" : "I Am A Rock",
-          "name" : "I Am A Rock",
-          "newVersion" : 2
-        },
-        {
-          "id" : "I Am Planet Earth",
-          "name" : "I Am Planet Earth",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Row Row Row Your Boat",
-          "name" : "Row Row Row Your Boat",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Handa's Surprise",
-          "name" : "Handa's Surprise",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Solar System",
-          "name" : "The Solar System",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Sun",
-          "name" : "The Sun",
-          "newVersion" : 2
-        },
-        {
-          "id" : "What's the Time,Mr. Wolf",
-          "name" : "What's the Time,Mr. Wolf",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Where's My Teddy ",
-          "name" : "Where's My Teddy ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Tomorrow's Alphabet ",
-          "name" : "Tomorrow's Alphabet ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Earth ",
-          "name" : "Earth ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Moon ",
-          "name" : "The Moon ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "If You Give A Mouse A Cookie ",
-          "name" : "If You Give A Mouse A Cookie ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Owl Babies ",
-          "name" : "Owl Babies ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Comets ",
-          "name" : "Comets ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Shooting Stars ",
-          "name" : "Shooting Stars ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Chicka Chicka Boom Boom ",
-          "name" : "Chicka Chicka Boom Boom ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "If You Take A Mouse To School",
-          "name" : "If You Take A Mouse To School",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Kipper's Christmas Eve",
-          "name" : "Kipper's Christmas Eve",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Mouse Paint",
-          "name" : "Mouse Paint",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Curious George Learns the Alphabets",
-          "name" : "Curious George Learns the Alphabets",
-          "newVersion" : 2
-        },
-        {
-          "id" : "If the Dinosaurs Came Back",
-          "name" : "If the Dinosaurs Came Back",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Kipper's Monster",
-          "name" : "Kipper's Monster",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Madeline",
-          "name" : "Madeline",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Runaway Bunny",
-          "name" : "The Runaway Bunny",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Blue Balloon",
-          "name" : "The Blue Balloon",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Miss Nelson Is Missing",
-          "name" : "Miss Nelson Is Missing",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Noisy Nora",
-          "name" : "Noisy Nora",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Dinosaur Encore",
-          "name" : "Dinosaur Encore",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Click,Clack,Moo Cows That Type",
-          "name" : "Click,Clack,Moo Cows That Type",
-          "newVersion" : 2
-        }
-      ],
-      "name" : "廖彩杏书单第四阶段",
       "id" : "67baa4d94a5148f701db52908ce60f52",
-      "hasImages" : true
+      "name" : "廖彩杏书单第四阶段",
+      "bookIds" : [
+        "adc378a510c657994c2d361030a4396a",
+        "53170fdcf53ec1289a04c73a733aa7e2",
+        "2910fbb23d379cb3088d815303a14dc2",
+        "14b49ba004eac1c1286675a192a37505",
+        "75e053ba4f17f928cf694001e64e2fc8",
+        "37b3bfaf13d2829667daf7e92c365343",
+        "a6801ff08f747e3db9dbc20f119bd50f",
+        "7f2809233f787cb9206ec8c1a1f290fe",
+        "efdc860cf4a1b6d0a75a2f61fcc31a02",
+        "5fdf8916ff7de2b40661dacaa6a59a6a",
+        "f36ab4ff2793c3fac0effa32f529a442",
+        "688c2f4c4a92cbca8e345d49e8652200",
+        "e66e30b51371bb26261ecb584ea39aef",
+        "c52f19542759c4f30486c3f6c455a0ae",
+        "3117a57e39b3e7912382b6364028c85a",
+        "7d665edc077d382869a48770c8ac519e",
+        "cff5bfca14f013826f98f5fd0e50d6cd",
+        "81827ec29cb346f0698e012a7d5145dd",
+        "aacc8ebf12fc34ce34e29d444b6e6e06",
+        "0e16472d0a1320006ef33957e12c8fb1",
+        "ecac580b2fbb579c6f703c36da0f64b5",
+        "627a82976d7870829cadde4436249daf",
+        "c7ff61ab4bdeaeaa91a6464547b64bd1",
+        "14f1bdd07a249bc8331061731295a6e3",
+        "888dda4dfe2e2ae3e3cf9a6dafb74ab8",
+        "52dea8f23e6e41a34335689a158bb419",
+        "149ba863781cbe198c8f18c2427c64f8",
+        "416d4942cdf330fd76e58616acebef76",
+        "78718e97d7571c6471b75442e8b9a966",
+        "1703a690fac79a7351d3b83212c2d220"
+      ]
     },
     {
-      "items" : [
-        {
-          "id" : "Who Is It?",
-          "name" : "Who Is It?",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Floppy Floppy",
-          "name" : "Floppy Floppy",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Six in a Bed",
-          "name" : "Six in a Bed",
-          "newVersion" : 2
-        },
-        {
-          "id" : "A Good Trick",
-          "name" : "A Good Trick",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Fun at the Beach",
-          "name" : "Fun at the Beach",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Pancake",
-          "name" : "The Pancake",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Is It?",
-          "name" : "Is It?",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Get On",
-          "name" : "Get On",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Floppy Did This",
-          "name" : "Floppy Did This",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Get Dad",
-          "name" : "Get Dad",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Up You Go",
-          "name" : "Up You Go",
-          "newVersion" : 2
-        },
-        {
-          "id" : "I See",
-          "name" : "I See",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Headache",
-          "name" : "The Headache",
-          "newVersion" : 2
-        },
-        {
-          "id" : "At the Park",
-          "name" : "At the Park",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Fancy Dress",
-          "name" : "Fancy Dress",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Push!",
-          "name" : "Push!",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Good Old Mum",
-          "name" : "Good Old Mum",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Pet Shop",
-          "name" : "The Pet Shop",
-          "newVersion" : 2
-        },
-        {
-          "id" : "What a Mess!",
-          "name" : "What a Mess!",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Making Faces",
-          "name" : "Making Faces",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Journey",
-          "name" : "The Journey",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Goal!",
-          "name" : "Goal!",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Who Did That?",
-          "name" : "Who Did That?",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Shopping",
-          "name" : "Shopping",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Hop! Hop! Pop!",
-          "name" : "Hop! Hop! Pop!",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Catkin the Kitten",
-          "name" : "Catkin the Kitten",
-          "newVersion" : 2
-        },
-        {
-          "id" : "In the Trolley",
-          "name" : "In the Trolley",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Trampoline",
-          "name" : "The Trampoline",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Enormous Crab",
-          "name" : "The Enormous Crab",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Caterpillar",
-          "name" : "The Caterpillar",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Picture Book Man",
-          "name" : "The Picture Book Man",
-          "newVersion" : 2
-        },
-        {
-          "id" : "In the Tent",
-          "name" : "In the Tent",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Bag in the Bin",
-          "name" : "The Bag in the Bin",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Stuck!",
-          "name" : "Stuck!",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Big Red Bus",
-          "name" : "The Big Red Bus",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Sock",
-          "name" : "The Sock",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Hide and Seek",
-          "name" : "Hide and Seek",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Look at Me",
-          "name" : "Look at Me",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Go Away, Floppy",
-          "name" : "Go Away, Floppy",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Reds and Blues",
-          "name" : "Reds and Blues",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Big Feet",
-          "name" : "Big Feet",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Kipper's Diary",
-          "name" : "Kipper's Diary",
-          "newVersion" : 2
-        },
-        {
-          "id" : "What Dogs Like",
-          "name" : "What Dogs Like",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Presents for Dad",
-          "name" : "Presents for Dad",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Top Dog",
-          "name" : "Top Dog",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Look After Me",
-          "name" : "Look After Me",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Go On, Mum!",
-          "name" : "Go On, Mum!",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Go Away, Cat",
-          "name" : "Go Away, Cat",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Sandcastle",
-          "name" : "The Sandcastle",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Floppy's Bone",
-          "name" : "Floppy's Bone",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Box of Treasure",
-          "name" : "The Box of Treasure",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Hook a Duck",
-          "name" : "Hook a Duck",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Chip's Robot",
-          "name" : "Chip's Robot",
-          "newVersion" : 2
-        },
-        {
-          "id" : "One Wheel",
-          "name" : "One Wheel",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Ice Cream",
-          "name" : "The Ice Cream",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Can You See Me?",
-          "name" : "Can You See Me?",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Good Dog",
-          "name" : "Good Dog",
-          "newVersion" : 2
-        },
-        {
-          "id" : "What a DIN!",
-          "name" : "What a DIN!",
-          "newVersion" : 2
-        },
-        {
-          "id" : "See Me Skip",
-          "name" : "See Me Skip",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Mud Pie",
-          "name" : "The Mud Pie",
-          "newVersion" : 2
-        }
-      ],
-      "name" : "牛津阅读树第一级",
       "id" : "11955206244c6950bd4bd59b732ab607",
-      "hasImages" : true
+      "name" : "牛津阅读树第一级",
+      "bookIds" : [
+        "6ac11f6af285b73025d327f159264943",
+        "59ba6db3a6effd8dd077a830ecf1803c",
+        "0d16bb446a7b968a2d359a06388d11e8",
+        "2aa87f7a86e8b9f20136205b411fc937",
+        "79de488b17a8f161cf7bf07be6241414",
+        "2f75385e0afeab161900b6d2cda1f08f",
+        "fa8310b53ec78b13b08741cc1669d96f",
+        "df9bb71035e40543bbef16035ea9b935",
+        "7ff96965ddd765a41d9de160cf2134c1",
+        "da21dc732a7283c13427242629740cab",
+        "02aff45b487f1e99b4b5b4946a38f6ad",
+        "cc1aa62acab8cef0162a3818d6ff7bc1",
+        "0f162cd4de9d73371e352535bba84d3f",
+        "4b21807aca6e9dde02b948ea8bb416b7",
+        "021bab105f8702572eda21d0b491cac3",
+        "bcf69291fc5cff4029a2ec3a91eaee95",
+        "10ea9cf5ffb6bc1550a1377838375d3a",
+        "bb5a0f99bb4908dc1922de47bd1eda25",
+        "af9bd8d1fbaa2bc95caf9660a259fb3a",
+        "a72e2f66a4ece1bf3c8937aca36390e2",
+        "93510aecf18333d3a719647d8411836a",
+        "f7909483e005e5d4524dd0edbb3775fb",
+        "4e47c1f7c252c5192858c3212a303343",
+        "5d438f25277c27834a34b3ce04483bd5",
+        "a705696d5b66ed478bcee31dde6c9aa6",
+        "3825394c5585242705d144b265eea7bd",
+        "e13c38e9a2d183ec32829405c695abb7",
+        "17fbb2828d31cb30fcb8c579428c933e",
+        "744554829a2c030174ae5d33d3b6fc51",
+        "4f4db25c94482c7f299ccda7d8ed4f12",
+        "8a156ece81b05ea599b9fc9efcb15e17",
+        "d7dc99a056e1e3bbe610111152f5fa18",
+        "768eec98a23fa665306583b9ba74e359",
+        "9f74963f76d791dd25cd74157acbd4cd",
+        "dc6b7ee25f351076ab4d186ab21df0d2",
+        "ed11aef9495d7b709ea736cd821c76b6",
+        "bccfa757414b8294511513b4ffe61a62",
+        "dab3dacfab994c601d621c5d83d17ce4",
+        "a7b91f507c32f3fea407a40c09e46e39",
+        "de2b4263625d5f3b28fb4b492a38f132",
+        "c826952d0fe6556142cf35cf8c54a03f",
+        "02c1e546f2c81921749bccaf860aca47",
+        "fe118e005144e4aeca5e12d3e0fbe142",
+        "2ebcf2d87937965d65f05df0c11328f6",
+        "7ee88d9510e60d83a1e215327b86ecd9",
+        "29accdeb9998aae6479804385ca3829f",
+        "5cbccfd755f15a1d1b74ebcbfa03341a",
+        "a5bebe85f7eb73abdf8369886b6e32c1",
+        "bd7d4655f64ad68e3fa5e42435b08401",
+        "473f283db4f1bbf98352fce9e3d5af1e",
+        "f6cfbbc03db17d3db400afcddc8c7c48",
+        "220f7afa9b559949e00c6c4436973268",
+        "1a07b5eed33c3d152395dd86b35fe4b3",
+        "645aba728e0819e92969e1ba8688fcca",
+        "a345df311832583f9a7709687cc619b5",
+        "63c50a38ee5da33b6062d1e612dfd9b5",
+        "145b2d7752c7b07ea6bfdd26a6325e4e",
+        "dee4458d2d36a80f0735981b91cc21eb",
+        "35edc15950a966452341882ff891a635",
+        "40baef454b034c74be243225da93cf9a"
+      ]
     },
     {
-      "items" : [
-        {
-          "id" : "Biscuit",
-          "name" : "Biscuit",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Biscuit in the Garden",
-          "name" : "Biscuit in the Garden",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Bathtime for Biscuit",
-          "name" : "Bathtime for Biscuit",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Biscuit and the Baby",
-          "name" : "Biscuit and the Baby",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Biscuit and the Little Pup",
-          "name" : "Biscuit and the Little Pup",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Biscuit and the Lost Teddy Bear",
-          "name" : "Biscuit and the Lost Teddy Bear",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Biscuit Finds a Friend",
-          "name" : "Biscuit Finds a Friend",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Biscuit Goes to School",
-          "name" : "Biscuit Goes to School",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Biscuit Loves the Library",
-          "name" : "Biscuit Loves the Library",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Biscuit Meets the Class Pet",
-          "name" : "Biscuit Meets the Class Pet",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Biscuit Plays Ball",
-          "name" : "Biscuit Plays Ball",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Biscuit Takes a Walk",
-          "name" : "Biscuit Takes a Walk",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Biscuit Visits the Big City",
-          "name" : "Biscuit Visits the Big City",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Biscuit Wants to Play",
-          "name" : "Biscuit Wants to Play",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Biscuit's Big Friend",
-          "name" : "Biscuit's Big Friend",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Biscuit's Day at the Farm",
-          "name" : "Biscuit's Day at the Farm",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Biscuit Wins a Prize",
-          "name" : "Biscuit Wins a Prize",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Biscuit's New Trick",
-          "name" : "Biscuit's New Trick",
-          "newVersion" : 2
-        }
-      ],
-      "name" : "小饼干系列丛书",
       "id" : "de86378156a3b16c205ae4ba92f3a401",
-      "hasImages" : true
+      "name" : "小饼干系列丛书",
+      "bookIds" : [
+        "f621de0c5572681daf54dcc4b8489024",
+        "f67218efb239c64dd58269419075655e",
+        "69f9a4efc71ada0a7e49443f65a91070",
+        "2c1f2606b02c6484b6908fd3f2e5fe79",
+        "8100a11312b1fd68db3bf807aa97c4b0",
+        "298659fec84340cd8d9309836741f9ce",
+        "0e0e8940ff66629b9c97369948aca4b3",
+        "d6678b49a2062630e38388e50b25df56",
+        "7c048adb581cd1d11f2bc11a576def39",
+        "d5172164de5d70c5bd19c56502b69c54",
+        "f1d2ec19a413e0e7385c5e47c5baaade",
+        "c0c4f715314892219b3868ddd6e2eb67",
+        "141ba0c613c8eb3f131694df2d9e541d",
+        "89240f65efbe9a2d0308829091c0a775",
+        "343efed06ec3dfec25aad11ae3de8604",
+        "68ebf1ab683d69fe4a431a6e38781276",
+        "e7cabc0f20b8d8f1828aca5c86096e53",
+        "9edc4d2c417ac590ade37df4435d6dac"
+      ]
     },
     {
-      "items" : [
-        {
-          "id" : "At the Market",
-          "name" : "At the Market",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Rex",
-          "name" : "Rex",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Funny Things",
-          "name" : "Funny Things",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Baby Animals",
-          "name" : "The Baby Animals",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Over the River",
-          "name" : "Over the River",
-          "newVersion" : 2
-        },
-        {
-          "id" : "My Big Bear",
-          "name" : "My Big Bear",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Making Soup",
-          "name" : "Making Soup",
-          "newVersion" : 2
-        },
-        {
-          "id" : "My Family",
-          "name" : "My Family",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Mouse",
-          "name" : "Mouse",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Mop",
-          "name" : "Mop",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Mom",
-          "name" : "Mom",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Dad",
-          "name" : "Dad",
-          "newVersion" : 2
-        },
-        {
-          "id" : "At the Zoo",
-          "name" : "At the Zoo",
-          "newVersion" : 2
-        },
-        {
-          "id" : "On the Way to School",
-          "name" : "On the Way to School",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Park",
-          "name" : "The Park",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Tom",
-          "name" : "Tom",
-          "newVersion" : 2
-        },
-        {
-          "id" : "I Can Read ",
-          "name" : "I Can Read ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Baby ",
-          "name" : "Baby ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Playing Dress Up ",
-          "name" : "Playing Dress Up ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Little Cub ",
-          "name" : "Little Cub ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "My Room ",
-          "name" : "My Room ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Baby ",
-          "name" : "The Baby ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Going Sledding ",
-          "name" : "Going Sledding ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Making a Snowman ",
-          "name" : "Making a Snowman ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "My Lunch ",
-          "name" : "My Lunch ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Toys ",
-          "name" : "Toys ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Little Things ",
-          "name" : "Little Things ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Packing My Bag ",
-          "name" : "Packing My Bag ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Setting the Table ",
-          "name" : "Setting the Table ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Flower ",
-          "name" : "The Flower ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Playing Together ",
-          "name" : "Playing Together ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Polly ",
-          "name" : "Polly ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "At the Farm ",
-          "name" : "At the Farm ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Sidewalk ",
-          "name" : "The Sidewalk ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Hat ",
-          "name" : "The Hat ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Pet Store ",
-          "name" : "The Pet Store ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Going on Vacation ",
-          "name" : "Going on Vacation ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Wheels",
-          "name" : "Wheels",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Hiding",
-          "name" : "Hiding",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Show",
-          "name" : "The Show",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Hop, Hop, Hop",
-          "name" : "Hop, Hop, Hop",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Puppet Show ",
-          "name" : "The Puppet Show ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Rain ",
-          "name" : "Rain ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "My Baby Sister",
-          "name" : "My Baby Sister",
-          "newVersion" : 2
-        },
-        {
-          "id" : "So Big!",
-          "name" : "So Big!",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Parade",
-          "name" : "The Parade",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Fun at School",
-          "name" : "Fun at School",
-          "newVersion" : 2
-        },
-        {
-          "id" : "At School",
-          "name" : "At School",
-          "newVersion" : 2
-        },
-        {
-          "id" : "My Big Brother",
-          "name" : "My Big Brother",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Getting Ready",
-          "name" : "Getting Ready",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Play and Ride ",
-          "name" : "Play and Ride ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "My Bear ",
-          "name" : "My Bear ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "What is Very Long ",
-          "name" : "What is Very Long ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "The Play ",
-          "name" : "The Play ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Our Pets ",
-          "name" : "Our Pets ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Making a Pizza",
-          "name" : "Making a Pizza",
-          "newVersion" : 2
-        },
-        {
-          "id" : "A Visit from Aunt Bee",
-          "name" : "A Visit from Aunt Bee",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Birds",
-          "name" : "Birds",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Flap, Flap, Fly ",
-          "name" : "Flap, Flap, Fly ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "At the Pond ",
-          "name" : "At the Pond ",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Going on a Train Ride",
-          "name" : "Going on a Train Ride",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Spots",
-          "name" : "Spots",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Playing with Blocks",
-          "name" : "Playing with Blocks",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Drawing",
-          "name" : "Drawing",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Helping",
-          "name" : "Helping",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Baking",
-          "name" : "Baking",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Out to Play",
-          "name" : "Out to Play",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Painting",
-          "name" : "Painting",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Animals that Go Fast",
-          "name" : "Animals that Go Fast",
-          "newVersion" : 2
-        },
-        {
-          "id" : "Things that Go Fast",
-          "name" : "Things that Go Fast",
-          "newVersion" : 2
-        }
-      ],
-      "name" : "海尼曼分级读物GK",
       "id" : "d1dff33d1fbb470e826773d3a7774552",
-      "hasImages" : true
+      "name" : "海尼曼分级读物GK",
+      "bookIds" : [
+        "a5d11d767a5cf1abb6a2c8253005e69a",
+        "aee1ef2a5d65e25fdbefee05c3f9ea9b",
+        "8a084949364caf9c71eb408fdd3099c2",
+        "f366312ade9076b08c1b5c7e85270519",
+        "0ed8235132e480e7107ac02778681c40",
+        "27cc60ac4b5d9e42633fa2a43b8deb80",
+        "c4afe1693f3faef089620a38e37b0960",
+        "3f20ee60fa548c5ff234c434e47424b7",
+        "3dfb75cccbd0367f9d2d025ec36ba4ba",
+        "d7c8323d5ee16471ad8919dcb2ecb2d7",
+        "417c4a88d246e0927a686bc55fbcfc99",
+        "17ab46d824d3c458003d2b679495aa15",
+        "fe8f1b253fc0023a4c7e8c4b1d9936ab",
+        "feddd34680ffda2494a138f720c6439a",
+        "447d6c9d6f83147f783790123af24b48",
+        "9bff9823b3cfa2eb1fb8fe7d46747001",
+        "b0ed01488301ff092bcb8e1bd2097dac",
+        "5cb3acd44df2e262776b3ce166e1c0e5",
+        "bac88c8f9380340dfb16b60faaeb9192",
+        "eee650542998956237d21ea3fc643522",
+        "d86a565144c64e9d82b6eac8dc0b3a9d",
+        "35346f1c00f5097b4664462b9402e933",
+        "d9bfb79e48de5f0382e608cde5824779",
+        "1ac27fd2896ea5fcdf38fec1b17ba203",
+        "487ce592194b8c6b688c97906fa5af30",
+        "b37104113b1f9e25925993880664aabf",
+        "c849936678431f644fb388ee8f61429e",
+        "31c5ae82128acf8e020288a1ff365a4b",
+        "2bdba8470a2a02d0d02e811ff19a80df",
+        "df1835b0320028be349350342aca7ac6",
+        "655d2578120534aa4afb03b863c2a774",
+        "5ccf463c813126742786023bc5daf422",
+        "911bd3c56f793d2b0bc40b0bf17c49e0",
+        "ea91a7cbc72ab8900b8c427cfa5f9c01",
+        "27f79b3b7d5050be4f60962a449073e7",
+        "b4968710dad782b5143764d42ce75276",
+        "f0366f821f8f36f3b4bdac189f514e35",
+        "d3487cb3f03f4d5608c1d9b38beb6ad2",
+        "74b53ed0b7cc414ecfeb6d6f590d0297",
+        "50bf82bd3fa33d1d81bd4bf5cc128c16",
+        "0a477a31205a4511da68f895ecd0e983",
+        "d50e3f8b4ba756e07aaf6f383a26a66e",
+        "465a41eb374a13619db8149f7151309a",
+        "6d93999a6a927d94089661e9edfe123f",
+        "f0e62c3d6e2a3f52d361ad9a05be0411",
+        "8867703079fbb45b8241aaeea9b5b5e0",
+        "0b35e833be5503942224a0f16049a74b",
+        "d0e757ff78934b289ef8aaa0a1961262",
+        "84ca00685a31231971bed69113f3b467",
+        "613543acfc04fcc7aa5f76abb437c436",
+        "f8ca9fae7a1b11290f03f8d1f23c23b5",
+        "e1f2e2770c3f2058fff337b45a288e9c",
+        "98ac54fcf662318d2283fe642a9353d8",
+        "eced505735433e960f8822e122fe0b74",
+        "a865d9637a2efe2acc2550adce83e8bd",
+        "fa0277805b3a18d4b7682b639d79398f",
+        "1b862ed5a0f09d106d4d90db67cda5da",
+        "34787545470e69a6040823bb5b0b36e4",
+        "1a950e822b98a27e95e84e686f3c8dfb",
+        "de55ea9e2367bd5f1a42fb5c1c04236a",
+        "84ee29af722fa2b482ac9896a6734cde",
+        "20e586f4da0419c1974f17c2659a1b3c",
+        "8e5e2d730af79d4d37c3091761e5abc8",
+        "1eb5cce0d80b39d2c90048ef7a35ca38",
+        "cd0bc73e0edeb8764b310f672a97584a",
+        "a055a1d26093ad54e4c61b65ef2b5f09",
+        "5555c09d193cf8d3b1f3664587181eef",
+        "d0a98c0bebfeab2b765ab995aa328ce6",
+        "d6ce1edb450d3fa3f23cdc1125e7a8fa",
+        "6d83fda69852d0731bc6265a61295024"
+      ]
+    }
+  ],
+  "books" : [
+    {
+      "id" : "Brown Bear, Brown Bear, What Do You See?",
+      "name" : "Brown Bear, Brown Bear, What Do You See?",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Five Little Ducks",
+      "name" : "Five Little Ducks",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Rosie's Walk",
+      "name" : "Rosie's Walk",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Wheels on the Bus",
+      "name" : "The Wheels on the Bus",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Color Zoo",
+      "name" : "Color Zoo",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Five Little Monkeys Jumping on the Bed",
+      "name" : "Five Little Monkeys Jumping on the Bed",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Does A Kangaroo Have A Mother,Too?",
+      "name" : "Does A Kangaroo Have A Mother,Too?",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Foot Book",
+      "name" : "The Foot Book",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Sheep in a Jeep",
+      "name" : "Sheep in a Jeep",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Ten Fat Sausages",
+      "name" : "Ten Fat Sausages",
+      "newVersion" : 2
+    },
+    {
+      "id" : "I am the Music Man",
+      "name" : "I am the Music Man",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Go Away Mr Wolf!",
+      "name" : "Go Away Mr Wolf!",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Today Is Monday",
+      "name" : "Today Is Monday",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Go Away Big Green Monster!",
+      "name" : "Go Away Big Green Monster!",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Five Little Men in a Flying Saucer",
+      "name" : "Five Little Men in a Flying Saucer",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Down by the Station",
+      "name" : "Down by the Station",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Walking Through the Jungle",
+      "name" : "Walking Through the Jungle",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Hop on Pop",
+      "name" : "Hop on Pop",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Ape in a Cape: an Alphabet of Odd Animals",
+      "name" : "Ape in a Cape: an Alphabet of Odd Animals",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Sheep in a Shop",
+      "name" : "Sheep in a Shop",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Polar Bear, Polar Bear, What Do You Hear?",
+      "name" : "Polar Bear, Polar Bear, What Do You Hear?",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Goodnight Moon",
+      "name" : "Goodnight Moon",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Green Eggs and Ham",
+      "name" : "Green Eggs and Ham",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Dry Bones",
+      "name" : "Dry Bones",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Napping House",
+      "name" : "The Napping House",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Five Little Monkeys Sitting in a Tree",
+      "name" : "Five Little Monkeys Sitting in a Tree",
+      "newVersion" : 2
+    },
+    {
+      "id" : "We're Going on a Bear Hunt",
+      "name" : "We're Going on a Bear Hunt",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Here We Go Round the Mulberry Bush",
+      "name" : "Here We Go Round the Mulberry Bush",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Creepy Crawly Calypso",
+      "name" : "Creepy Crawly Calypso",
+      "newVersion" : 2
+    },
+    {
+      "id" : "King Bidgood's in the Bathtub",
+      "name" : "King Bidgood's in the Bathtub",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Hattie and the Fox",
+      "name" : "Hattie and the Fox",
+      "newVersion" : 2
+    },
+    {
+      "id" : "We All Go Traveling By",
+      "name" : "We All Go Traveling By",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Journey Home From Grandpa's",
+      "name" : "The Journey Home From Grandpa's",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Henny Penny",
+      "name" : "Henny Penny",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Animal Boogie",
+      "name" : "The Animal Boogie",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Very Hungry Caterpillar",
+      "name" : "The Very Hungry Caterpillar",
+      "newVersion" : 2
+    },
+    {
+      "id" : "My Very First Mother Goose",
+      "name" : "My Very First Mother Goose",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Brown Bear, Brown Bear, What Do You See?",
+      "name" : "Brown Bear, Brown Bear, What Do You See?",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Wheels on the Bus",
+      "name" : "The Wheels on the Bus",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Go Away Mr Wolf!",
+      "name" : "Go Away Mr Wolf!",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Five Little Monkeys Jumping on the Bed",
+      "name" : "Five Little Monkeys Jumping on the Bed",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Hop on Pop",
+      "name" : "Hop on Pop",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Down by the Station",
+      "name" : "Down by the Station",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Henny Penny",
+      "name" : "Henny Penny",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Green Eggs and Ham",
+      "name" : "Green Eggs and Ham",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Five Little Men in a Flying Saucer",
+      "name" : "Five Little Men in a Flying Saucer",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Ape in a Cape: an Alphabet of Odd Animals",
+      "name" : "Ape in a Cape: an Alphabet of Odd Animals",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Very Hungry Caterpillar",
+      "name" : "The Very Hungry Caterpillar",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Ten Fat Sausages",
+      "name" : "Ten Fat Sausages",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Today Is Monday",
+      "name" : "Today Is Monday",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Hattie and the Fox",
+      "name" : "Hattie and the Fox",
+      "newVersion" : 2
+    },
+    {
+      "id" : "I am the Music Man",
+      "name" : "I am the Music Man",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Does A Kangaroo Have A Mother,Too?",
+      "name" : "Does A Kangaroo Have A Mother,Too?",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Fox in Socks",
+      "name" : "Fox in Socks",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Five Little Ducks",
+      "name" : "Five Little Ducks",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Dr. Seuss's ABC",
+      "name" : "Dr. Seuss's ABC",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Go Away Big Green Monster!",
+      "name" : "Go Away Big Green Monster!",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Dry Bones",
+      "name" : "Dry Bones",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Mixed-Up Chameleon",
+      "name" : "The Mixed-Up Chameleon",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Sheep in a Jeep",
+      "name" : "Sheep in a Jeep",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Five Little Monkeys Sitting in a Tree",
+      "name" : "Five Little Monkeys Sitting in a Tree",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Goodnight Moon",
+      "name" : "Goodnight Moon",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Sheep in a Shop",
+      "name" : "Sheep in a Shop",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Down in the Jungle",
+      "name" : "Down in the Jungle",
+      "newVersion" : 2
+    },
+    {
+      "id" : "King Bidgood's in the Bathtub",
+      "name" : "King Bidgood's in the Bathtub",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Rosie's Walk",
+      "name" : "Rosie's Walk",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Here We Go Round the Mulberry Bush",
+      "name" : "Here We Go Round the Mulberry Bush",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Napping House",
+      "name" : "The Napping House",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Color Zoo",
+      "name" : "Color Zoo",
+      "newVersion" : 2
+    },
+    {
+      "id" : "We All Go Traveling By",
+      "name" : "We All Go Traveling By",
+      "newVersion" : 2
+    },
+    {
+      "id" : "We're Going on a Bear Hunt",
+      "name" : "We're Going on a Bear Hunt",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Polar Bear, Polar Bear, What Do You Hear?",
+      "name" : "Polar Bear, Polar Bear, What Do You Hear?",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Creepy Crawly Calypso",
+      "name" : "Creepy Crawly Calypso",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Guess How Much I Love You",
+      "name" : "Guess How Much I Love You",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Very Quiet Cricket",
+      "name" : "The Very Quiet Cricket",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Walking Through the Jungle",
+      "name" : "Walking Through the Jungle",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Foot Book",
+      "name" : "The Foot Book",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Is Your Mama a Llama",
+      "name" : "Is Your Mama a Llama",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Animal Boogie",
+      "name" : "The Animal Boogie",
+      "newVersion" : 2
+    },
+    {
+      "id" : "One Fish Two Fish Red Fish Blue Fish",
+      "name" : "One Fish Two Fish Red Fish Blue Fish",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Kipper's A to Z",
+      "name" : "Kipper's A to Z",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Journey Home From Grandpa's",
+      "name" : "The Journey Home From Grandpa's",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Who Is It?",
+      "name" : "Who Is It?",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Floppy Floppy",
+      "name" : "Floppy Floppy",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Six in a Bed",
+      "name" : "Six in a Bed",
+      "newVersion" : 2
+    },
+    {
+      "id" : "A Good Trick",
+      "name" : "A Good Trick",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Fun at the Beach",
+      "name" : "Fun at the Beach",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Pancake",
+      "name" : "The Pancake",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Is It?",
+      "name" : "Is It?",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Get On",
+      "name" : "Get On",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Floppy Did This",
+      "name" : "Floppy Did This",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Get Dad",
+      "name" : "Get Dad",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Up You Go",
+      "name" : "Up You Go",
+      "newVersion" : 2
+    },
+    {
+      "id" : "I See",
+      "name" : "I See",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Headache",
+      "name" : "The Headache",
+      "newVersion" : 2
+    },
+    {
+      "id" : "At the Park",
+      "name" : "At the Park",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Fancy Dress",
+      "name" : "Fancy Dress",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Push!",
+      "name" : "Push!",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Good Old Mum",
+      "name" : "Good Old Mum",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Pet Shop",
+      "name" : "The Pet Shop",
+      "newVersion" : 2
+    },
+    {
+      "id" : "What a Mess!",
+      "name" : "What a Mess!",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Making Faces",
+      "name" : "Making Faces",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Journey",
+      "name" : "The Journey",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Goal!",
+      "name" : "Goal!",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Who Did That?",
+      "name" : "Who Did That?",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Shopping",
+      "name" : "Shopping",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Hop! Hop! Pop!",
+      "name" : "Hop! Hop! Pop!",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Catkin the Kitten",
+      "name" : "Catkin the Kitten",
+      "newVersion" : 2
+    },
+    {
+      "id" : "In the Trolley",
+      "name" : "In the Trolley",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Trampoline",
+      "name" : "The Trampoline",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Enormous Crab",
+      "name" : "The Enormous Crab",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Caterpillar",
+      "name" : "The Caterpillar",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Picture Book Man",
+      "name" : "The Picture Book Man",
+      "newVersion" : 2
+    },
+    {
+      "id" : "In the Tent",
+      "name" : "In the Tent",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Bag in the Bin",
+      "name" : "The Bag in the Bin",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Stuck!",
+      "name" : "Stuck!",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Big Red Bus",
+      "name" : "The Big Red Bus",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Sock",
+      "name" : "The Sock",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Hide and Seek",
+      "name" : "Hide and Seek",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Look at Me",
+      "name" : "Look at Me",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Go Away, Floppy",
+      "name" : "Go Away, Floppy",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Reds and Blues",
+      "name" : "Reds and Blues",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Big Feet",
+      "name" : "Big Feet",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Kipper's Diary",
+      "name" : "Kipper's Diary",
+      "newVersion" : 2
+    },
+    {
+      "id" : "What Dogs Like",
+      "name" : "What Dogs Like",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Presents for Dad",
+      "name" : "Presents for Dad",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Top Dog",
+      "name" : "Top Dog",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Look After Me",
+      "name" : "Look After Me",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Go On, Mum!",
+      "name" : "Go On, Mum!",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Go Away, Cat",
+      "name" : "Go Away, Cat",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Sandcastle",
+      "name" : "The Sandcastle",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Floppy's Bone",
+      "name" : "Floppy's Bone",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Box of Treasure",
+      "name" : "The Box of Treasure",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Hook a Duck",
+      "name" : "Hook a Duck",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Chip's Robot",
+      "name" : "Chip's Robot",
+      "newVersion" : 2
+    },
+    {
+      "id" : "One Wheel",
+      "name" : "One Wheel",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Ice Cream",
+      "name" : "The Ice Cream",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Can You See Me?",
+      "name" : "Can You See Me?",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Good Dog",
+      "name" : "Good Dog",
+      "newVersion" : 2
+    },
+    {
+      "id" : "What a DIN!",
+      "name" : "What a DIN!",
+      "newVersion" : 2
+    },
+    {
+      "id" : "See Me Skip",
+      "name" : "See Me Skip",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Mud Pie",
+      "name" : "The Mud Pie",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Biscuit",
+      "name" : "Biscuit",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Biscuit in the Garden",
+      "name" : "Biscuit in the Garden",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Bathtime for Biscuit",
+      "name" : "Bathtime for Biscuit",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Biscuit and the Baby",
+      "name" : "Biscuit and the Baby",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Biscuit and the Little Pup",
+      "name" : "Biscuit and the Little Pup",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Biscuit and the Lost Teddy Bear",
+      "name" : "Biscuit and the Lost Teddy Bear",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Biscuit Finds a Friend",
+      "name" : "Biscuit Finds a Friend",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Biscuit Goes to School",
+      "name" : "Biscuit Goes to School",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Biscuit Loves the Library",
+      "name" : "Biscuit Loves the Library",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Biscuit Meets the Class Pet",
+      "name" : "Biscuit Meets the Class Pet",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Biscuit Plays Ball",
+      "name" : "Biscuit Plays Ball",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Biscuit Takes a Walk",
+      "name" : "Biscuit Takes a Walk",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Biscuit Visits the Big City",
+      "name" : "Biscuit Visits the Big City",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Biscuit Wants to Play",
+      "name" : "Biscuit Wants to Play",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Biscuit's Big Friend",
+      "name" : "Biscuit's Big Friend",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Biscuit's Day at the Farm",
+      "name" : "Biscuit's Day at the Farm",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Biscuit Wins a Prize",
+      "name" : "Biscuit Wins a Prize",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Biscuit's New Trick",
+      "name" : "Biscuit's New Trick",
+      "newVersion" : 2
+    },
+    {
+      "id" : "At the Market",
+      "name" : "At the Market",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Rex",
+      "name" : "Rex",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Funny Things",
+      "name" : "Funny Things",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Baby Animals",
+      "name" : "The Baby Animals",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Over the River",
+      "name" : "Over the River",
+      "newVersion" : 2
+    },
+    {
+      "id" : "My Big Bear",
+      "name" : "My Big Bear",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Making Soup",
+      "name" : "Making Soup",
+      "newVersion" : 2
+    },
+    {
+      "id" : "My Family",
+      "name" : "My Family",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Mouse",
+      "name" : "Mouse",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Mop",
+      "name" : "Mop",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Mom",
+      "name" : "Mom",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Dad",
+      "name" : "Dad",
+      "newVersion" : 2
+    },
+    {
+      "id" : "At the Zoo",
+      "name" : "At the Zoo",
+      "newVersion" : 2
+    },
+    {
+      "id" : "On the Way to School",
+      "name" : "On the Way to School",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Park",
+      "name" : "The Park",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Tom",
+      "name" : "Tom",
+      "newVersion" : 2
+    },
+    {
+      "id" : "I Can Read ",
+      "name" : "I Can Read ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Baby ",
+      "name" : "Baby ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Playing Dress Up ",
+      "name" : "Playing Dress Up ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Little Cub ",
+      "name" : "Little Cub ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "My Room ",
+      "name" : "My Room ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Baby ",
+      "name" : "The Baby ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Going Sledding ",
+      "name" : "Going Sledding ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Making a Snowman ",
+      "name" : "Making a Snowman ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "My Lunch ",
+      "name" : "My Lunch ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Toys ",
+      "name" : "Toys ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Little Things ",
+      "name" : "Little Things ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Packing My Bag ",
+      "name" : "Packing My Bag ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Setting the Table ",
+      "name" : "Setting the Table ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Flower ",
+      "name" : "The Flower ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Playing Together ",
+      "name" : "Playing Together ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Polly ",
+      "name" : "Polly ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "At the Farm ",
+      "name" : "At the Farm ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Sidewalk ",
+      "name" : "The Sidewalk ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Hat ",
+      "name" : "The Hat ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Pet Store ",
+      "name" : "The Pet Store ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Going on Vacation ",
+      "name" : "Going on Vacation ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Wheels",
+      "name" : "Wheels",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Hiding",
+      "name" : "Hiding",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Show",
+      "name" : "The Show",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Hop, Hop, Hop",
+      "name" : "Hop, Hop, Hop",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Puppet Show ",
+      "name" : "The Puppet Show ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Rain ",
+      "name" : "Rain ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "My Baby Sister",
+      "name" : "My Baby Sister",
+      "newVersion" : 2
+    },
+    {
+      "id" : "So Big!",
+      "name" : "So Big!",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Parade",
+      "name" : "The Parade",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Fun at School",
+      "name" : "Fun at School",
+      "newVersion" : 2
+    },
+    {
+      "id" : "At School",
+      "name" : "At School",
+      "newVersion" : 2
+    },
+    {
+      "id" : "My Big Brother",
+      "name" : "My Big Brother",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Getting Ready",
+      "name" : "Getting Ready",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Play and Ride ",
+      "name" : "Play and Ride ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "My Bear ",
+      "name" : "My Bear ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "What is Very Long ",
+      "name" : "What is Very Long ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Play ",
+      "name" : "The Play ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Our Pets ",
+      "name" : "Our Pets ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Making a Pizza",
+      "name" : "Making a Pizza",
+      "newVersion" : 2
+    },
+    {
+      "id" : "A Visit from Aunt Bee",
+      "name" : "A Visit from Aunt Bee",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Birds",
+      "name" : "Birds",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Flap, Flap, Fly ",
+      "name" : "Flap, Flap, Fly ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "At the Pond ",
+      "name" : "At the Pond ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Going on a Train Ride",
+      "name" : "Going on a Train Ride",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Spots",
+      "name" : "Spots",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Playing with Blocks",
+      "name" : "Playing with Blocks",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Drawing",
+      "name" : "Drawing",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Helping",
+      "name" : "Helping",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Baking",
+      "name" : "Baking",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Out to Play",
+      "name" : "Out to Play",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Painting",
+      "name" : "Painting",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Animals that Go Fast",
+      "name" : "Animals that Go Fast",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Things that Go Fast",
+      "name" : "Things that Go Fast",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Chicken Soup With Rice",
+      "name" : "Chicken Soup With Rice",
+      "newVersion" : 2
+    },
+    {
+      "id" : "On Market Street",
+      "name" : "On Market Street",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Silly Sally",
+      "name" : "Silly Sally",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Each Peach Pear Plum",
+      "name" : "Each Peach Pear Plum",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Papa, please get the moon for me",
+      "name" : "Papa, please get the moon for me",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Quick as a Cricket",
+      "name" : "Quick as a Cricket",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Eating the Alphabet",
+      "name" : "Eating the Alphabet",
+      "newVersion" : 2
+    },
+    {
+      "id" : "See you later,Alligator",
+      "name" : "See you later,Alligator",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Princess and The Dragon",
+      "name" : "The Princess and The Dragon",
+      "newVersion" : 2
+    },
+    {
+      "id" : "I Am an Apple",
+      "name" : "I Am an Apple",
+      "newVersion" : 2
+    },
+    {
+      "id" : "I'm a Caterpillar",
+      "name" : "I'm a Caterpillar",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Little Mouse,The Red Ripe Strawberry,and The Big Hungry Bear",
+      "name" : "The Little Mouse,The Red Ripe Strawberry,and The Big Hungry Bear",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Alligators All Around An Alphabet",
+      "name" : "Alligators All Around An Alphabet",
+      "newVersion" : 2
+    },
+    {
+      "id" : "I'm a Seed",
+      "name" : "I'm a Seed",
+      "newVersion" : 2
+    },
+    {
+      "id" : "A Dragon on the Doorstep",
+      "name" : "A Dragon on the Doorstep",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Maisy Goes Camping",
+      "name" : "Maisy Goes Camping",
+      "newVersion" : 2
+    },
+    {
+      "id" : "I Am a Star",
+      "name" : "I Am a Star",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Itsy Bitsy Spider",
+      "name" : "The Itsy Bitsy Spider",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Maisy's Christmas Eve",
+      "name" : "Maisy's Christmas Eve",
+      "newVersion" : 2
+    },
+    {
+      "id" : "I Am Snow",
+      "name" : "I Am Snow",
+      "newVersion" : 2
+    },
+    {
+      "id" : "I Am Water",
+      "name" : "I Am Water",
+      "newVersion" : 2
+    },
+    {
+      "id" : "I Am Fire",
+      "name" : "I Am Fire",
+      "newVersion" : 2
+    },
+    {
+      "id" : "I Am a Leaf",
+      "name" : "I Am a Leaf",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Over in the Meadow",
+      "name" : "Over in the Meadow",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Do You Want to Be My Friend",
+      "name" : "Do You Want to Be My Friend",
+      "newVersion" : 2
+    },
+    {
+      "id" : "I Am A Rock",
+      "name" : "I Am A Rock",
+      "newVersion" : 2
+    },
+    {
+      "id" : "I Am Planet Earth",
+      "name" : "I Am Planet Earth",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Row Row Row Your Boat",
+      "name" : "Row Row Row Your Boat",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Handa's Surprise",
+      "name" : "Handa's Surprise",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Solar System",
+      "name" : "The Solar System",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Sun",
+      "name" : "The Sun",
+      "newVersion" : 2
+    },
+    {
+      "id" : "What's the Time,Mr. Wolf",
+      "name" : "What's the Time,Mr. Wolf",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Where's My Teddy ",
+      "name" : "Where's My Teddy ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Tomorrow's Alphabet ",
+      "name" : "Tomorrow's Alphabet ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Earth ",
+      "name" : "Earth ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Moon ",
+      "name" : "The Moon ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "If You Give A Mouse A Cookie ",
+      "name" : "If You Give A Mouse A Cookie ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Owl Babies ",
+      "name" : "Owl Babies ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Comets ",
+      "name" : "Comets ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Shooting Stars ",
+      "name" : "Shooting Stars ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Chicka Chicka Boom Boom ",
+      "name" : "Chicka Chicka Boom Boom ",
+      "newVersion" : 2
+    },
+    {
+      "id" : "If You Take A Mouse To School",
+      "name" : "If You Take A Mouse To School",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Kipper's Christmas Eve",
+      "name" : "Kipper's Christmas Eve",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Mouse Paint",
+      "name" : "Mouse Paint",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Curious George Learns the Alphabets",
+      "name" : "Curious George Learns the Alphabets",
+      "newVersion" : 2
+    },
+    {
+      "id" : "If the Dinosaurs Came Back",
+      "name" : "If the Dinosaurs Came Back",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Kipper's Monster",
+      "name" : "Kipper's Monster",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Madeline",
+      "name" : "Madeline",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Runaway Bunny",
+      "name" : "The Runaway Bunny",
+      "newVersion" : 2
+    },
+    {
+      "id" : "The Blue Balloon",
+      "name" : "The Blue Balloon",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Miss Nelson Is Missing",
+      "name" : "Miss Nelson Is Missing",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Noisy Nora",
+      "name" : "Noisy Nora",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Dinosaur Encore",
+      "name" : "Dinosaur Encore",
+      "newVersion" : 2
+    },
+    {
+      "id" : "Click,Clack,Moo Cows That Type",
+      "name" : "Click,Clack,Moo Cows That Type",
+      "newVersion" : 2
     }
   ]
 }
