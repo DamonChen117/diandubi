@@ -2,7 +2,7 @@
   "groups" : [
     {
       "id" : "d4bfd3cc1d3161e0139112dfacc8122f",
-      "name" : "经典绘本第一季",
+      "name" : "乐玩英语训练营第一季",
       "bookIds" : [
         "Brown Bear, Brown Bear, What Do You See?",
         "Five Little Ducks",
@@ -26,7 +26,7 @@
     },
     {
       "id" : "bbc9b04364e3a5a800c53e0904f1237f",
-      "name" : "经典绘本第二季",
+      "name" : "乐玩英语训练营第二季",
       "bookIds" : [
         "Ape in a Cape: an Alphabet of Odd Animals",
         "Sheep in a Shop",
@@ -526,93 +526,8 @@
       "newVersion" : 2
     },
     {
-      "id" : "Brown Bear, Brown Bear, What Do You See?",
-      "name" : "Brown Bear, Brown Bear, What Do You See?",
-      "newVersion" : 2
-    },
-    {
-      "id" : "The Wheels on the Bus",
-      "name" : "The Wheels on the Bus",
-      "newVersion" : 2
-    },
-    {
-      "id" : "Go Away Mr Wolf!",
-      "name" : "Go Away Mr Wolf!",
-      "newVersion" : 2
-    },
-    {
-      "id" : "Five Little Monkeys Jumping on the Bed",
-      "name" : "Five Little Monkeys Jumping on the Bed",
-      "newVersion" : 2
-    },
-    {
-      "id" : "Hop on Pop",
-      "name" : "Hop on Pop",
-      "newVersion" : 2
-    },
-    {
-      "id" : "Down by the Station",
-      "name" : "Down by the Station",
-      "newVersion" : 2
-    },
-    {
-      "id" : "Henny Penny",
-      "name" : "Henny Penny",
-      "newVersion" : 2
-    },
-    {
-      "id" : "Green Eggs and Ham",
-      "name" : "Green Eggs and Ham",
-      "newVersion" : 2
-    },
-    {
-      "id" : "Five Little Men in a Flying Saucer",
-      "name" : "Five Little Men in a Flying Saucer",
-      "newVersion" : 2
-    },
-    {
-      "id" : "Ape in a Cape: an Alphabet of Odd Animals",
-      "name" : "Ape in a Cape: an Alphabet of Odd Animals",
-      "newVersion" : 2
-    },
-    {
-      "id" : "The Very Hungry Caterpillar",
-      "name" : "The Very Hungry Caterpillar",
-      "newVersion" : 2
-    },
-    {
-      "id" : "Ten Fat Sausages",
-      "name" : "Ten Fat Sausages",
-      "newVersion" : 2
-    },
-    {
-      "id" : "Today Is Monday",
-      "name" : "Today Is Monday",
-      "newVersion" : 2
-    },
-    {
-      "id" : "Hattie and the Fox",
-      "name" : "Hattie and the Fox",
-      "newVersion" : 2
-    },
-    {
-      "id" : "I am the Music Man",
-      "name" : "I am the Music Man",
-      "newVersion" : 2
-    },
-    {
-      "id" : "Does A Kangaroo Have A Mother,Too?",
-      "name" : "Does A Kangaroo Have A Mother,Too?",
-      "newVersion" : 2
-    },
-    {
       "id" : "Fox in Socks",
       "name" : "Fox in Socks",
-      "newVersion" : 2
-    },
-    {
-      "id" : "Five Little Ducks",
-      "name" : "Five Little Ducks",
       "newVersion" : 2
     },
     {
@@ -621,88 +536,13 @@
       "newVersion" : 2
     },
     {
-      "id" : "Go Away Big Green Monster!",
-      "name" : "Go Away Big Green Monster!",
-      "newVersion" : 2
-    },
-    {
-      "id" : "Dry Bones",
-      "name" : "Dry Bones",
-      "newVersion" : 2
-    },
-    {
       "id" : "The Mixed-Up Chameleon",
       "name" : "The Mixed-Up Chameleon",
       "newVersion" : 2
     },
     {
-      "id" : "Sheep in a Jeep",
-      "name" : "Sheep in a Jeep",
-      "newVersion" : 2
-    },
-    {
-      "id" : "Five Little Monkeys Sitting in a Tree",
-      "name" : "Five Little Monkeys Sitting in a Tree",
-      "newVersion" : 2
-    },
-    {
-      "id" : "Goodnight Moon",
-      "name" : "Goodnight Moon",
-      "newVersion" : 2
-    },
-    {
-      "id" : "Sheep in a Shop",
-      "name" : "Sheep in a Shop",
-      "newVersion" : 2
-    },
-    {
       "id" : "Down in the Jungle",
       "name" : "Down in the Jungle",
-      "newVersion" : 2
-    },
-    {
-      "id" : "King Bidgood's in the Bathtub",
-      "name" : "King Bidgood's in the Bathtub",
-      "newVersion" : 2
-    },
-    {
-      "id" : "Rosie's Walk",
-      "name" : "Rosie's Walk",
-      "newVersion" : 2
-    },
-    {
-      "id" : "Here We Go Round the Mulberry Bush",
-      "name" : "Here We Go Round the Mulberry Bush",
-      "newVersion" : 2
-    },
-    {
-      "id" : "The Napping House",
-      "name" : "The Napping House",
-      "newVersion" : 2
-    },
-    {
-      "id" : "Color Zoo",
-      "name" : "Color Zoo",
-      "newVersion" : 2
-    },
-    {
-      "id" : "We All Go Traveling By",
-      "name" : "We All Go Traveling By",
-      "newVersion" : 2
-    },
-    {
-      "id" : "We're Going on a Bear Hunt",
-      "name" : "We're Going on a Bear Hunt",
-      "newVersion" : 2
-    },
-    {
-      "id" : "Polar Bear, Polar Bear, What Do You Hear?",
-      "name" : "Polar Bear, Polar Bear, What Do You Hear?",
-      "newVersion" : 2
-    },
-    {
-      "id" : "Creepy Crawly Calypso",
-      "name" : "Creepy Crawly Calypso",
       "newVersion" : 2
     },
     {
@@ -716,23 +556,8 @@
       "newVersion" : 2
     },
     {
-      "id" : "Walking Through the Jungle",
-      "name" : "Walking Through the Jungle",
-      "newVersion" : 2
-    },
-    {
-      "id" : "The Foot Book",
-      "name" : "The Foot Book",
-      "newVersion" : 2
-    },
-    {
       "id" : "Is Your Mama a Llama",
       "name" : "Is Your Mama a Llama",
-      "newVersion" : 2
-    },
-    {
-      "id" : "The Animal Boogie",
-      "name" : "The Animal Boogie",
       "newVersion" : 2
     },
     {
@@ -743,11 +568,6 @@
     {
       "id" : "Kipper's A to Z",
       "name" : "Kipper's A to Z",
-      "newVersion" : 2
-    },
-    {
-      "id" : "The Journey Home From Grandpa's",
-      "name" : "The Journey Home From Grandpa's",
       "newVersion" : 2
     },
     {
