@@ -1,5 +1,5 @@
-Privacy Policy AppQuiz - Edujoy
-As a company based in Spain with global operations, we strictly comply with Spanish privacy laws, but we also strive to comply with the best practices worldwide. This privacy policy sets out how we handle your privacy. By accessing our website and installing our mobile apps, the user agrees with the practices laid down in this privacy policy.
+Privacy Policy
+This privacy policy sets out how we handle your privacy. By accessing our website and installing our mobile apps, the user agrees with the practices laid down in this privacy policy.
 
 1. Automatic Database of Personal Information
 In accordance with the Organic Law 15/1999, of December 13th on the Protection of Personal Data, Edujoy Entertainment, S.L. hereby informs the user of an automatic database of personal information named Usuarios Web, whose main purpose is to provide information about the products, promotions, and competitions offered by Edujoy Entertainment S.L., registered in the General Registry of Data Protection.
@@ -43,5 +43,4 @@ In any case, we advise disabling in-app purchases on your device and actively mo
 We also advise reading this privacy policy since by allowing your children to use our services you are agreeing to this privacy policy on their behalf. If you disagree, please do not allow your child to use our apps.
 
 We do not contact or collect information from children under 13 without the permission of their parents/guardians. However, if you believe that we have inadvertently collected such information, please contact us to promptly obtain the consent of the parents/guardians or erase the information.
-7. Right of access, rectification, cancellation and objection
-Any user who fills their personal information in the various subscription forms is able to exercise their right of access, rectification, cancellation and objection by request to the mailing address of the owner of the database, Plaza Euskadi, 9 , PISO 1 A, 48011 Bilbao, or by email to edujoy@edujoy.es. Edujoy may make changes to its Privacy Policy. If these changes affect the rights of the users, they will be notified by email. The updated Privacy Policy into effect is permanently accessible on the website.
+
