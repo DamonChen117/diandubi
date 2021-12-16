@@ -10918,13 +10918,13 @@
       "git" : "A",
       "id" : "test0",
       "name" : "test0",
-      "newVersion" : 2
+      "version" : 2
     },
     {
       "git" : "A",
       "id" : "test1",
       "name" : "test1",
-      "newVersion" : 2
+      "version" : 2
     }
   ]
 }
